@@ -1,4 +1,4 @@
-# Photo Organizer
+# Photo Organizer via CMD Scripting
 
 A simple CMD script that organizes photos in a specified directory into subfolders based on their creation date (year-month). This script helps manage and tidy up photo collections by creating a structured folder system.
 
